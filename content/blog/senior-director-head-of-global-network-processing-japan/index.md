@@ -1,5 +1,5 @@
 ---
-title: 'Senior Director - Head of Global Network Processing, Japan'
+title: '(NEW) Senior Director - Head of Global Network Processing, Japan'
 date: '2020-02-04T12:42:46.346Z'
 description: "You’re\_an Individual.\_We’re\_the team for you.\_Together, let’s transform the way the world pays."
 ---
